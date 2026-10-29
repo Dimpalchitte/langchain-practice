@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Virtual environment
+.venv/
+
+# Generated files
+__pycache__/
+*.pyc
+my_chroma_db/
+
+# Copyrighted PDFs (kept locally only)
+*.pdf
